@@ -9,4 +9,4 @@ By completing this I am hoping to demonstrate that I am able to work with
 basic HTML and CSS
 
 From The Odin Project's [curriculum]
-(https://www.theodinproject.com/courses/web-development-101/lessons/html-css
+(https://www.theodinproject.com/courses/web-development-101/lessons/html-css)
